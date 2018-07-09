@@ -1,5 +1,9 @@
- Le añadimos algo
+Le añadimos algo
 
  BLABLABLALBLBALABLALBA
 
+<<<<<<< HEAD
  Esta linea modificada por gregg
+=======
+ Esta linea la ha modificado jane
+>>>>>>> 417d7da13f95364e96f7af092627e4ef28528507
